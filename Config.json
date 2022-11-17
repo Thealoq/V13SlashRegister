@@ -1,0 +1,14 @@
+{
+    "token": "token",
+    "ClientID": "botid",
+    "url":"mongodb://localhost/thealoq",
+    "footer": "Developer 🍿 Thealoq",
+    "RegisterHammer": "kayıtçirolid",
+    "Woman": "kadinrolid",
+    "Man": "erkekrolid",
+    "Tag": "✬",
+    "Tagsız": "•",
+    "Family": "taglırolid",
+    "Booster": "boosterid",
+    "Unregister": "kayıtsızid"
+}
